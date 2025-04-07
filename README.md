@@ -7,15 +7,15 @@
 
 # Concepts of Version Control
 
-● Repository (Repo): A repository is a central location where all versions of a project's
+- Repository (Repo): A repository is a central location where all versions of a project's
 files and their history are stored
-● Commit: A commit is a snapshot of the project's state at a particular point in time. It
+- Commit: A commit is a snapshot of the project's state at a particular point in time. It
 captures all the changes made to the files since the last commit.
-● Branch: a separate line of development that allows developers to work on new
+- Branch: a separate line of development that allows developers to work on new
 features or bug fixes without affecting the main codebase.
-● Merge: The process of combining changes from different branches.
-● Clone: Creating a local copy of a remote repository.
-● Pull/Push: Pull: Fetching and merging changes from a remote repository into your
+- Merge: The process of combining changes from different branches.
+- Clone: Creating a local copy of a remote repository.
+- Pull/Push: Pull: Fetching and merging changes from a remote repository into your
 local repository, Push: Sending local changes to a remote repository.
 
 # Why GitHub is Popular
