@@ -20,37 +20,37 @@ local repository, Push: Sending local changes to a remote repository.
 
 # Why GitHub is Popular
 
-● Collaboration and Open-Source Projects: GitHub provides an easy way for
+- Collaboration and Open-Source Projects: GitHub provides an easy way for
 developers to collaborate on open-source projects.
-● Community: GitHub has an active community of developers, offering a wealth of
+- Community: GitHub has an active community of developers, offering a wealth of
 open-source projects and tools. Developers can contribute to existing projects or
 start their own, creating a platform of shared resources.
-● Documentation and Wikis: GitHub allows users to document their projects using
+- Documentation and Wikis: GitHub allows users to document their projects using
 
 # Markdown files like README.md.
 
-● Pull Requests: A way to propose changes that can be reviewed before merging
+-  Pull Requests: A way to propose changes that can be reviewed before merging
 How Version Control Maintains Project Integrity
-● History Preservation: Every change is recorded, creating an audit trail.
-● Rollback Capability: You can revert to previous versions if something breaks.
-● Parallel Development: Multiple developers can work simultaneously without
+- History Preservation: Every change is recorded, creating an audit trail.
+- Rollback Capability: You can revert to previous versions if something breaks.
+- Parallel Development: Multiple developers can work simultaneously without
 overwriting each other's work.
-● Access Control: Version control systems include features for controlling access to
+- Access Control: Version control systems include features for controlling access to
 project files and folders, ensuring that only authorized users can make changes
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 Setting Up a New GitHub Repository
 Create the repository
-● Log in to GitHub
-● Click the "+" icon in the top-right corner
-● Select "New repository"
-● Enter a repository name
+- Log in to GitHub
+- Click the "+" icon in the top-right corner
+- Select "New repository"
+- Enter a repository name
 
 Initialize the repository
-● Either initialize with a README, gitignore, and license on GitHub
-● Or create locally and push to GitHub using terminal commands:
-○ git init
+- Either initialize with a README, gitignore, and license on GitHub
+- Or create locally and push to GitHub using terminal commands:
+-- git init
 ○ git add README.md
 ○ git commit -m "first commit"
 ○ git branch -M main
